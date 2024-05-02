@@ -42,7 +42,7 @@ height: 400px;
 margin-left: 250px;
 }
 #lchicken3{
-margin-right: 230px;
+margin-right: 330px;
 }
 
 /* Styles for the <nav> section */
@@ -89,6 +89,9 @@ main {
     border: solid;
 
     
+}
+#layout {
+    width: 1400px;
 }
 
 /* Styles for the <article> sections */
